@@ -15,7 +15,7 @@ Banana
 Cherry
 Dumplings
 Eggs
-Fanta
+Fant
 Guava
 H
 I
