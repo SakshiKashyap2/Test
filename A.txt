@@ -11,7 +11,6 @@ Appl
 Banana
 Cherr
 Dumplings
-
 Fan
 GuavI
 J
