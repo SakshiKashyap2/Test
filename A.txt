@@ -12,7 +12,7 @@ Appl
 Banana
 Cherr
 Dumplings
-Egg
+Eg
 Fan
 Guava
 
